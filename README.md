@@ -4,9 +4,6 @@ API_ID From my.telegram@org
 
 API_HASH From my.telegram.org 
 
-WEBHOOK -If Your Server Is Need Web Service! Value = True Else Value = 
-False 
-
 ADMIN -AUTH Or Bot Controllers Ids Multiple ld Use Space To Split 
 
 DB_URL -Mongo Database URL From https://cloud.monqodb.com 
